@@ -1,4 +1,4 @@
-### Hey there, I'm   Muhammad Hammad Hassan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm   Muhammad Hammad Hassan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">
 
 <div align="center">
 <p align="center">Let's connect!</p>
