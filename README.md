@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mhhjutt@gmail.com**
 
-- ⚡ Fun fact **I passionate about new things**
+- ⚡ Fun fact **I passionate about Desktop Application **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
