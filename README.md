@@ -4,13 +4,13 @@
 <h3 align="center">A passionate developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Data Base and Operating System**
+- 🌱 I’m currently learning **System Design**
 
 - 💬 Ask me about **C # (.net framework)**
 
 - 📫 How to reach me **mhhjutt@gmail.com**
 
-- ⚡ Fun fact **I passionate about Desktop Application **
+- ⚡ Fun fact **I passionate about Desktop and Web Application **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
