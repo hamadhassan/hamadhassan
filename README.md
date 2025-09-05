@@ -9,11 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hammadhassan299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hammadhassan299" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hammadhassan365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammadhassan365" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/hammad-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hammad-hassan" height="30" width="40" /></a>
-<a href="https://fb.com/hammadhassan365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hammadhassan365" height="30" width="40" /></a>
-<a href="https://instagram.com/hammadhassan365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammadhassan365" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uc7rwnitwdurfdixlbl51d0a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc7rwnitwdurfdixlbl51d0a" height="30" width="40" /></a>
 </p>
 
