@@ -1,16 +1,13 @@
 ![KHp5](https://user-images.githubusercontent.com/96945594/180788109-bed08f44-fd98-4865-a732-e9589386270e.gif)
 
-<h1 align="center">Hi 👋, I'm Muhammad Hammad Hassan</h1>
+<h1 align="center">Hi 👋, I'm Hamad Hassan</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **System Design**
 
-- 💬 Ask me about **C # (.net framework)**
+- 📫 How to reach me **hamadhassanuet@gmail.com**
 
-- 📫 How to reach me **mhhjutt@gmail.com**
-
-- ⚡ Fun fact **I passionate about Desktop and Web Application **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
